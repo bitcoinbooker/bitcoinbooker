@@ -1,5 +1,7 @@
 # bitcoinbooker
-bitcoinbooker.net warning for everyone
+bitcoinbooker.net warning for the general public
+
+
 Keyword or Tags:
 Fraud
 Scam
